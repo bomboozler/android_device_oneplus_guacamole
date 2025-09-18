@@ -41,7 +41,7 @@ PRODUCT_PACKAGES += \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
     OPlusSystemUIResTarget \
-    OPlusAlertSlider
+    OPlusAlertSliderOverlay
 
 # Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 28
